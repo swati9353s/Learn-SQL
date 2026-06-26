@@ -260,7 +260,12 @@ A complete SQL roadmap covering fundamentals, analytics, optimization, and real-
 | Database concepts |
 
 ---
+A complete SQL learning playlist covering SQL concepts required for Data Science and AI roles.
 
+🔗 **Video Playlist:**  
+https://www.youtube.com/watch?v=CTLwYjh92xw&list=PLBv9GORP5VkclmbvgNaEB3GBFc-weefX7
+
+---
 # Goal 🎯
 
 Prepare SQL skills required for:
